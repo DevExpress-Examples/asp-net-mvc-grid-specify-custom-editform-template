@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Sample/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Sample/Controllers/HomeController.vb))
+* [Users.cs](./CS/Sample/Models/Users.cs) (VB: [Users.vb](./VB/Sample/Models/Users.vb))
+* [GridViewPartial.cshtml](./CS/Sample/Views/Home/GridViewPartial.cshtml)
+* [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # GridView - How to specify a custom EditForm Template
 
 

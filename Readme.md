@@ -5,7 +5,7 @@ This example demonstrates how to specify a custom EditForm template in the grid,
 
 ![Grid View for MVC - CustomEditFormTemplate](images/CustomEditFormTemplate.png)
 
-Set up the grid control, set the [GridView.SettingsEditing.Mode](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewEditingSettings.Mode) property to `EditFormAndDisplayRow`, create a templated column, and call the [GridViewSettings.SetEditFormTemplateContent](http://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewSettings_SetEditFormTemplateContenttopic) method to define ad edit form template.
+Set up the grid control, set the [GridView.SettingsEditing.Mode](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewEditingSettings.Mode) property to `EditFormAndDisplayRow`, create a templated column, and call the [GridViewSettings.SetEditFormTemplateContent](http://documentation.devexpress.com/#AspNet/DevExpressWebMvcGridViewSettings_SetEditFormTemplateContenttopic) method to define an edit form template.
 
 ```xml
 @Html.DevExpress().GridView(

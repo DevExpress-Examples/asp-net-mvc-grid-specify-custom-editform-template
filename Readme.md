@@ -22,7 +22,7 @@ Set up the grid control, set the [GridView.SettingsEditing.Mode](https://docs.de
 ).Bind(Model).GetHtml()
 ```
 
-Add the Upload control to the edit form template and define its settings. To allow the control to post selected files, wrap it with a form. In the [FileUploadComplete](https://docs.devexpress.com/AspNet/js-ASPxClientUploadControl.FileUploadComplete) event handler, assign the value obtained from the server to the text box editor.
+Add the Upload control to the edit form template and define its settings. To allow the control to post selected files, wrap it in a form. In the [FileUploadComplete](https://docs.devexpress.com/AspNet/js-ASPxClientUploadControl.FileUploadComplete) event handler, assign the value obtained from the server to the text box editor.
 
 ```xml
 @Html.DevExpress().GridView(

@@ -12,9 +12,9 @@
         settings.SettingsEditing.DeleteRowRouteValues = new { Controller = "Home", Action = "Delete" };
 
         settings.CommandColumn.Visible = true;
-        settings.CommandColumn.NewButton.Visible = true;
-        settings.CommandColumn.DeleteButton.Visible = true;
-        settings.CommandColumn.EditButton.Visible = true;
+        settings.CommandColumn.ShowNewButton = true;
+        settings.CommandColumn.ShowDeleteButton = true;
+        settings.CommandColumn.ShowEditButton = true;
 
         settings.Columns.Add("NickName");
         settings.Columns.Add(

@@ -75,7 +75,7 @@ Update the in-memory data source.
 - [Grid View for MVC - How to Bind a Grid to Standard In-Memory Data Sources (DataTable, List)](https://github.com/DevExpress-Examples/mvc-gridview-bind-to-in-memory-data-sources)
 - [Grid View for MVC - How to Edit In-Memory Data Source](https://github.com/DevExpress-Examples/gridview-how-to-edit-in-memory-data-source-e3983)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-specify-custom-editform-template&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-specify-custom-editform-template&~~~was_helpful=no)
 
